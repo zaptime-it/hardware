@@ -14,8 +14,8 @@ D.S. Discontinued but still supported by the software.
 
 <img src="../media/BTClock-V812186_RevA_Main-PCB.png" width="500"/>
 
-[Trough hole version V.1-41](https://git.btclock.dev/btclock/hardware/src/branch/main/Main-PCB/BTClock-V812186_RevA_Main-PCB)
+[Trough hole version V.1-41](https://git.btclock.dev/btclock/hardware/src/branch/main/Main-PCB/BTClock-V812186_RevA_Main-PCB) Block 812186
 
 <img src="../media/BTClock-V833954_RevA_Main-PCB.png" width="500"/>
 
-[SMD version V.1-45](https://git.btclock.dev/btclock/hardware/src/branch/main/Main-PCB/BTClock-V833964_RevA_Main-PCB)
+[SMD version V.1-45](https://git.btclock.dev/btclock/hardware/src/branch/main/Main-PCB/BTClock-V833954_RevA_Main-PCB) Block 833954
