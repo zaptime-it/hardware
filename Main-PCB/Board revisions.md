@@ -18,4 +18,4 @@ D.S. Discontinued but still supported by the software.
 
 <img src="../media/BTClock-V833954_RevA_Main-PCB.png" width="500"/>
 
-[SMD version V.1-45](https://git.btclock.dev/btclock/hardware/src/branch/main/Main-PCB/BTClock-V833954_RevA_Main-PCB) Block 833954
+[SMD version V.1-45](https://git.btclock.dev/btclock/hardware/src/branch/main/Main-PCB/%20BTClock-V833954_RevA_Main-PCB) Block 833954
